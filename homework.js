@@ -1,0 +1,1 @@
+print("You have to do your homework right now!");
